@@ -1,4 +1,3 @@
 {
-  "rewrites": [{ "source": "/oauth/callback", "destination": "/" }],
-  "routes": [{ "src": "/(.*)", "dest": "/" }]
+  "rewrites": [{ "source": "/oauth/callback", "destination": "/" }]
 }
