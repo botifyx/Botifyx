@@ -251,7 +251,7 @@ const ChatPage: React.FC = () => {
 
     // Call the external API
     try {
-      const response = await fetch("http://20.41.116.48/new_chat", {
+      const response = await fetch("https://botifyx-backend-botifyxs-projects.vercel.app/new_chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

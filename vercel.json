@@ -1,3 +1,3 @@
 {
-  "rewrites": [{ "source": "/oauth/callback", "destination": "/" }]
+    "rewrites": [{ "source": "/oauth/callback", "destination": "/" }]
 }
